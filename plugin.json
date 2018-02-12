@@ -1,20 +1,20 @@
 {
   "version": "1.0.0",
   "name": "ricardo.ch",
-  "description": "Plugin für ricardo.ch. Um ricardo.ch in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei ricardo.ch nötig.",
+  "description": "Um ricardo.ch in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei ricardo.ch nötig.",
   "namespace": "MultiChannelRicardoCh",
   "pluginIcon": "icon_plugin_xs.png",
   "author": "plentymarkets GmbH",
   "email": "support@plentymarkets.eu",
   "authorIcon": "icon_author_xs.png",
   "shortDescription": {
-    "de": "Plugin für ricardo.ch. Um ricardo.ch in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei ricardo.ch nötig.",
-    "en": "Plugin for the market ricardo.ch. A ricardo.ch seller account is mandatory for setting up ricardo.ch in plentymarkets."
+    "de": "Der Marktplatz ricardo.ch ist in plentymarkets 7 bereits integriert. Um ricardo.ch in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei ricardo.ch nötig.",
+    "en": "ricardo.ch is already integrated into your plentymarkets 7 system. A ricardo.ch seller account is mandatory for setting up ricardo.ch in plentymarkets."
   },
   "license": "AGPL-3.0",
   "categories": [
     3523
   ],
   "price": 0.00,
-  "type": "general"
+  "type": "info"
 }
