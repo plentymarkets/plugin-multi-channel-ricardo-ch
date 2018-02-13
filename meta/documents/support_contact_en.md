@@ -8,4 +8,4 @@ support@plentymarkets.com
 
 ## Manual
 
-<a href="https://knowledge.plentymarkets.com/omni-channel/multi-channel/amazon/amazon-einrichten#4550" target="_blank">Knowledge</a>
+<a href="https://knowledge.plentymarkets.com/en/omni-channel/multi-channel/ricardo-ch" target="_blank">Knowledge</a>
