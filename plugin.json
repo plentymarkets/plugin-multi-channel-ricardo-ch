@@ -8,8 +8,8 @@
   "email": "support@plentymarkets.eu",
   "authorIcon": "icon_author_xs.png",
   "shortDescription": {
-    "de": "Der Marktplatz ricardo.ch ist in plentymarkets 7 bereits integriert. Um ricardo.ch in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei ricardo.ch nötig.",
-    "en": "ricardo.ch is already integrated into your plentymarkets 7 system. A ricardo.ch seller account is mandatory for setting up ricardo.ch in plentymarkets."
+    "de": "Über die Anbindung des Online-Marktplatzes ricardo.ch wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf ricardo.ch zu listen. Die Schnittstelle zu ricardo.ch ist in plentymarkets 7 bereits integriert.",
+    "en": "The integration of the online marketplace ricardo.ch enables an automatic exchange of item- and order data with plentymarkets, allowing to list items on ricardo.ch. The interface to ricardo.ch is already integrated into plentymarkets 7."
   },
   "license": "AGPL-3.0",
   "categories": [
