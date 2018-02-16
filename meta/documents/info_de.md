@@ -3,7 +3,7 @@
 
 <div class="container-toc"></div>
 
-plentymarkets stellt als erster deutscher Anbieter in seiner eCommerce-Software eine komplette und integrierte Anbindung an [ricardo.ch](www.ricardo.ch) – dem grössten Schweizer Online-Marktplatz – zur Verfügung, um Artikel einzustellen und Verkäufe abzurufen. plentymarkets-Händler können ihre Produkte ab sofort bei ricardo.ch problemlos anbieten und verkaufen.
+plentymarkets stellt als erster deutscher Anbieter in seiner eCommerce-Software eine komplette und integrierte Anbindung an <a href="https://www.ricardo.ch" target="_blank">ricardo.ch</a> – dem grössten Schweizer Online-Marktplatz – zur Verfügung, um Artikel einzustellen und Verkäufe abzurufen. plentymarkets-Händler können ihre Produkte ab sofort bei ricardo.ch problemlos anbieten und verkaufen.
 
 
 Multi-Channel-Vertrieb ist die Zukunft. Die Konzentration auf nur einen Marktplatz kann sich für Online-Händler fatal auswirken, wie die jüngsten Entwicklungen zeigen. Mit der eCommerce-Software plentymarkets können Online-Händler auf den größten Online-Märkten der Welt verkaufen. Dazu zählt auch ricardo.ch.
