@@ -1,7 +1,7 @@
 ## Webseite
 
-https://www.plentymarkets.eu/
- 
+<a href="https://www.plentymarkets.eu/" target="_blank">https://www.plentymarkets.eu/</a>
+
 ## E-Mail
  
 <a href="mailto:support@plentymarkets.com">support@plentymarkets.com</a>
