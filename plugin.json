@@ -1,7 +1,10 @@
 {
   "version": "1.0.2",
   "name": "ricardo",
-  "marketplaceName": "ricardo.ch",
+  "marketplaceName": {
+    "de": "ricardo.ch",
+    "en": "ricardo.ch"
+  },
   "description": "Um ricardo.ch in plentymarkets nutzen zu können, ist eine Händlerregistrierung bei ricardo.ch nötig.",
   "namespace": "MultiChannelRicardoCh",
   "pluginIcon": "icon_plugin_xs.png",
@@ -14,8 +17,8 @@
   },
   "license": "AGPL-3.0",
   "categories": [
-    3523
+    3821
   ],
   "price": 0.00,
-  "type": "plentyInfo"
+  "type": "plentyinfo"
 }
